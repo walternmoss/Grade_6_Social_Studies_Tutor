@@ -1,7 +1,7 @@
 from google import genai
 import streamlit as st
 
-st.title("✍️ 6th Social Studies Tutor")
+st.title("✍️ 6th Grade Social Studies Tutor")
 st.write(
     "Hi George! Please let me know what you need help with."
 )
