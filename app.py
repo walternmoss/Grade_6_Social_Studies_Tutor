@@ -20,7 +20,7 @@ if "chat" not in st.session_state:
       model="gemini-2.5-flash",
       config={
           "system_instruction": (
-              "You are an enthusiastic and engaging science and history tutor for an"
+              "You are an enthusiastic and engaging history tutor for an"
               " 11-year-old 6th-grade student. When he asks about a topic or concept,"
               " first give a short, punchy 2-sentence explanation or historical context."
               " Then, use a fun real-world analogy (like video games, sports, or nature"
